@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/redis/src/main/main1.iml" filepath="$PROJECT_DIR$/redis/src/main/main1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/redis-webflux.iml" filepath="$PROJECT_DIR$/.idea/redis-webflux.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/redis.main.iml" filepath="$PROJECT_DIR$/.idea/modules/redis.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/webflux1.main.iml" filepath="$PROJECT_DIR$/.idea/modules/webflux1.main.iml" />
     </modules>
   </component>
 </project>

@@ -4,49 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cd3ea99-178a-4ecf-80f8-99f8ea65a6c2" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/Srping-redis1/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Srping-redis1/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Srping-redis1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Srping-redis1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Srping-redis1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Srping-redis1/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Srping-redis1/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Srping-redis1/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Srping-redis1/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Srping-redis1/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Srping-redis1/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Srping-redis1/src/main/java/org/example/BitMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Srping-redis1/src/main/java/org/example/Geo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Srping-redis1/src/main/java/org/example/Hash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Srping-redis1/src/main/java/org/example/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Srping-redis1/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Srping-redis1/src/main/java/org/example/Set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Srping-redis1/src/main/java/org/example/SortedSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Srping-redis1/src/main/java/org/example/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clip/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clip/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clip/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clip/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clip/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clip/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clip/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clip/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clip/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clip/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clip/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clip/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clip/src/main/java/org/example/Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clip/src/main/java/org/example/Operator2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clip/src/main/java/org/example/Publisher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clip/src/test/java/org/example/Operator2Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clip/src/test/java/org/example/OperatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clip/src/test/java/org/example/PublisherTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+    <list default="true" id="2cd3ea99-178a-4ecf-80f8-99f8ea65a6c2" name="Changes" comment="feat: operator 추가">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clip/src/main/java/org/example/Operator3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clip/src/main/java/org/example/Operator4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clip/src/main/java/org/example/Scheduler1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clip/src/test/java/org/example/Operator3Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clip/src/test/java/org/example/Operator4Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clip/src/test/java/org/example/SchedulersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webflux1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webflux1/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webflux1/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webflux1/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webflux1/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webflux1/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webflux1/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webflux1/src/main/java/com/example/webflux1/RouteConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webflux1/src/main/java/com/example/webflux1/SampleHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webflux1/src/main/java/com/example/webflux1/Webflux1Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webflux1/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webflux1/src/test/java/com/example/webflux1/Webflux1ApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clip/src/main/java/org/example/Operator2.java" beforeDir="false" afterPath="$PROJECT_DIR$/clip/src/main/java/org/example/Operator2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clip/src/test/java/org/example/Operator2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/clip/src/test/java/org/example/Operator2Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +44,9 @@
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/redis">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/webflux1">
       <ProjectState />
     </projectState>
   </component>
@@ -83,13 +69,13 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/clip" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -112,37 +98,41 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2fE2okeIM2Y6NjBu25s5Rg9TRgz" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/hwiseo/Documents/dev/fastcampus/Project2/redis-webflux&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "/Users/hwiseo/Documents/dev/fastcampus/Project2/redis-webflux",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
   </component>
@@ -158,8 +148,8 @@
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.Operator2Test.defaultIfEmpty">
-    <configuration name="Operator2Test.concatMap" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Spring Boot.Webflux1Application">
+    <configuration name="Operator3Test.fluxGroupBy" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/clip" />
@@ -172,7 +162,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;org.example.Operator2Test.concatMap&quot;" />
+            <option value="&quot;org.example.Operator3Test.fluxGroupBy&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -183,7 +173,7 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="Operator2Test.defaultIfEmpty" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="Operator4Test.fluxDelayAndLimit" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/clip" />
@@ -196,7 +186,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;org.example.Operator2Test.defaultIfEmpty&quot;" />
+            <option value="&quot;org.example.Operator4Test.fluxDelayAndLimit&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -207,7 +197,7 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="Operator2Test.monoFlatMapMany" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="Operator4Test.fluxSample" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/clip" />
@@ -220,7 +210,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;org.example.Operator2Test.monoFlatMapMany&quot;" />
+            <option value="&quot;org.example.Operator4Test.fluxSample&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -231,7 +221,7 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="OperatorTest.flatMap" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="SchedulersTest.fluxMapWithPublishOn" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/clip" />
@@ -244,7 +234,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;org.example.OperatorTest.flatMap&quot;" />
+            <option value="&quot;org.example.SchedulersTest.fluxMapWithPublishOn&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -255,7 +245,7 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="OperatorTest.flatMap2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="SchedulersTest.fluxMapWithSubscribeOn" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/clip" />
@@ -268,7 +258,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;org.example.OperatorTest.flatMap2&quot;" />
+            <option value="&quot;org.example.SchedulersTest.fluxMapWithSubscribeOn&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -278,21 +268,29 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <RunAsTest>true</RunAsTest>
       <method v="2" />
+    </configuration>
+    <configuration name="Webflux1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="webflux1.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.webflux1.Webflux1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
-      <item itemvalue="Gradle.Operator2Test.concatMap" />
-      <item itemvalue="Gradle.Operator2Test.defaultIfEmpty" />
-      <item itemvalue="Gradle.Operator2Test.monoFlatMapMany" />
-      <item itemvalue="Gradle.OperatorTest.flatMap" />
-      <item itemvalue="Gradle.OperatorTest.flatMap2" />
+      <item itemvalue="Gradle.Operator4Test.fluxDelayAndLimit" />
+      <item itemvalue="Gradle.Operator4Test.fluxSample" />
+      <item itemvalue="Gradle.SchedulersTest.fluxMapWithPublishOn" />
+      <item itemvalue="Gradle.SchedulersTest.fluxMapWithSubscribeOn" />
+      <item itemvalue="Gradle.Operator3Test.fluxGroupBy" />
+      <item itemvalue="Spring Boot.Webflux1Application" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.Operator2Test.defaultIfEmpty" />
-        <item itemvalue="Gradle.Operator2Test.monoFlatMapMany" />
-        <item itemvalue="Gradle.Operator2Test.concatMap" />
-        <item itemvalue="Gradle.OperatorTest.flatMap2" />
-        <item itemvalue="Gradle.OperatorTest.flatMap" />
+        <item itemvalue="Gradle.SchedulersTest.fluxMapWithPublishOn" />
+        <item itemvalue="Gradle.SchedulersTest.fluxMapWithSubscribeOn" />
+        <item itemvalue="Gradle.Operator4Test.fluxSample" />
+        <item itemvalue="Gradle.Operator4Test.fluxDelayAndLimit" />
+        <item itemvalue="Gradle.Operator3Test.fluxGroupBy" />
       </list>
     </recent_temporary>
   </component>
@@ -322,6 +320,11 @@
       <workItem from="1714386876445" duration="121000" />
       <workItem from="1714387152345" duration="2556000" />
       <workItem from="1714456110745" duration="577000" />
+      <workItem from="1714461083738" duration="1799000" />
+      <workItem from="1714557774362" duration="12000" />
+      <workItem from="1714557799395" duration="895000" />
+      <workItem from="1714559268172" duration="3000" />
+      <workItem from="1714560847686" duration="1218000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -347,7 +350,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714386963441</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat: operator 추가">
+      <option name="closed" value="true" />
+      <created>1714461113511</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714461113511</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -365,12 +376,14 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$/redis-webflux" />
       <path value="$PROJECT_DIR$/Srping-redis1" />
     </ignored-roots>
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="feat: operator 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: operator 추가" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
