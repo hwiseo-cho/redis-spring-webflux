@@ -5,31 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2cd3ea99-178a-4ecf-80f8-99f8ea65a6c2" name="Changes" comment="feat: operator 추가">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clip/src/main/java/org/example/Operator3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clip/src/main/java/org/example/Operator4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clip/src/main/java/org/example/Scheduler1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clip/src/test/java/org/example/Operator3Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clip/src/test/java/org/example/Operator4Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clip/src/test/java/org/example/SchedulersTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webflux1/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webflux1/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webflux1/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webflux1/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webflux1/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webflux1/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webflux1/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webflux1/src/main/java/com/example/webflux1/RouteConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webflux1/src/main/java/com/example/webflux1/SampleHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webflux1/src/main/java/com/example/webflux1/Webflux1Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webflux1/src/main/resources/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webflux1/src/test/java/com/example/webflux1/Webflux1ApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webflux1/src/main/java/com/example/webflux1/controller/SampleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webflux1/src/main/java/com/example/webflux1/controller/Usercontroller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webflux1/src/main/java/com/example/webflux1/dto/UserCreateRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webflux1/src/main/java/com/example/webflux1/dto/UserResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webflux1/src/main/java/com/example/webflux1/dto/UserUpdateRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webflux1/src/main/java/com/example/webflux1/repository/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webflux1/src/main/java/com/example/webflux1/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webflux1/src/main/java/com/example/webflux1/repository/UserRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webflux1/src/main/java/com/example/webflux1/service/UserService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clip/src/main/java/org/example/Operator2.java" beforeDir="false" afterPath="$PROJECT_DIR$/clip/src/main/java/org/example/Operator2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clip/src/test/java/org/example/Operator2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/clip/src/test/java/org/example/Operator2Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,8 +54,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="JUnit5 Test Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -105,34 +91,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "git-widget-placeholder": "main",
-    "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "/Users/hwiseo/Documents/dev/fastcampus/Project2/redis-webflux",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/hwiseo/Documents/dev/fastcampus/Project2/redis-webflux&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
   </component>
@@ -325,6 +311,7 @@
       <workItem from="1714557799395" duration="895000" />
       <workItem from="1714559268172" duration="3000" />
       <workItem from="1714560847686" duration="1218000" />
+      <workItem from="1714646114729" duration="2458000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
