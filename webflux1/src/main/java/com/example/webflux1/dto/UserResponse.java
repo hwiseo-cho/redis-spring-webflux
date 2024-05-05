@@ -20,8 +20,8 @@ public class UserResponse {
                 .id(user.getId())
                 .name(user.getName())
                 .email(user.getEmail())
-                .createTime(user.getCreateTime())
-                .updateTime(user.getUpdateTime())
+                .createTime(user.getCreatedAt())
+                .updateTime(user.getUpdatedAt())
                 .build();
     }
 }
