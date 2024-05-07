@@ -7,3 +7,8 @@ spring:
     url: r2dbc:mysql://localhost:3306/fastsns?useUni=true&serverTimezone=Asia/Seoul
     username: root
     password:
+
+  data:
+    redis:
+      host: 127.0.0.1
+      port: 6379
